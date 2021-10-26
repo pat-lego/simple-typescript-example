@@ -1,4 +1,4 @@
-# io.github.patlego.examples.typescript
+# A Simple TypeScript Example
 
 A simple repository to showcase how to use typescript
 
